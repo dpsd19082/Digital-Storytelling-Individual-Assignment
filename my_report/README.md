@@ -1,8 +1,8 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
+### First and Last Name: Moysidou Malamati
+### University Registration Number: dpsd19082
+### GitHub Personal Profile: https://github.com/dpsd19082
 ### Digital-Storytelling-Individual-Assignment: xxx
 
 # Introduction
